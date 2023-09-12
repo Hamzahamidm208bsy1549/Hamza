@@ -1,2 +1,0 @@
-# Hamza
-Introduction to Github
